@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-core
+llama-index
+sentence-transformers
+requests
+pandas
+python-dotenv
+feedparser
+scikit-learn
+numpy
